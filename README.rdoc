@@ -5,6 +5,7 @@ To use the gem created by this forked repo, add the following to your Gemfile:
 
   gem "razenha-vestal_versions", "~> 1.2.2"
 
+Here follows the original, unaltered readme:
 
 = vestal_versions for Rails 3
 
