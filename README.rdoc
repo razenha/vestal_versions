@@ -1,3 +1,11 @@
+= About this fork
+
+I forked this repo because the original repo owner did not published the latest vestal_versions gem to rubygems, so I forked this repo in published it gem to rubygems.
+To use the gem created by this forked repo, add the following to your Gemfile:
+
+  gem "razenha-vestal_versions", "~> 1.2.2"
+
+
 = vestal_versions for Rails 3
 
 Finally, DRY ActiveRecord versioning!

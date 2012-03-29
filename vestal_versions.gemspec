@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'vestal_versions/version_num'
 
 Gem::Specification.new do |s|
-  s.name        = 'vestal_versions'
+  s.name        = 'razenha-vestal_versions'
   s.version     = VestalVersions::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Adam Cooper"]
